@@ -1,0 +1,32 @@
+body{
+  background-color: #B9D6BC;
+  border-right:  50px #349B90;
+  border-left:  50px #349B90;
+  border-style: solid;
+
+
+
+}
+
+p1{
+  text-align: center;
+
+}
+p2{
+  text-align: center;
+}
+h1{
+  text-align:center;
+  color: #095473;
+
+}
+h2{
+  text-align: center;
+  color: white;
+}
+.button{
+  font-size: 20 px
+  color: black;
+  border:2 px solid #4CAF5O;
+  border-radius: 12 px;
+}

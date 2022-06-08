@@ -1,0 +1,27 @@
+h1{
+  text-align: center;
+}
+.art{
+  margin: auto;
+}
+td{
+  background-color: pink;
+  height:400px;
+  width:200px;
+  padding-top :20px;
+}
+#one{
+  background-color:hotpink;
+}
+#two{
+  background-color: #7OC1B3;
+}
+#three{
+  background-color:  #B2DBBF;
+}
+#four{
+  background-color:  #F3FFBD;
+}
+#five{
+  background-color:  #FF1654;
+}
